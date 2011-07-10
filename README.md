@@ -7,8 +7,12 @@ If Web frameworks like Cakephp,Zend etc are too compliated for you & you prefer 
 ## PHP-MVC-framework-Boilerplate
 PHP MVC Boilarplate, provides you a basic skeleton for your custom app
 
+- *No Learning Curve: Apart from good things MVC, OOP, there is no other concepts that you need to gasp*
+
 - *Boilerplate is not a framework, nor does it prescribe any philosophy of development, it's just got basic stucture to get your PHP App off the ground quickly*
 
-Its inspired from html5boilerplate & aim to do the same but for PHP. Remember, Boilerplate is not a framework, nor does it prescribe any philosophy of development, it's just got basic stucture to get your PHP App off the ground quicklyl. 
+- *Its inspired from html5boilerplate & aim to do the same but for PHP.*
+
+- *Helps you start writing PHP in Object oriented manner*
 
  
