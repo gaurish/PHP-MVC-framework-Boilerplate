@@ -9,10 +9,6 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-// hack around with the include paths a bit so the framework 'just works'
-$cwd = dirname(__FILE__);
-set_include_path("$cwd".PATH_SEPARATOR.":".get_include_path());
-
 /*
 * Index.php is just place to set various configration options.
 * After setting the config options, we load another file core.php
