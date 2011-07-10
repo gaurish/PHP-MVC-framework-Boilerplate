@@ -9,7 +9,7 @@ Class Load {
     * @param array $fileName File Name of view e.g index.php
     */
     function view($fileName, $data=null) {
-        if(is_array(data)) {
+        if(is_array($data)) {
             extract($data);
         }
         require_once('html/' . $fileName);
