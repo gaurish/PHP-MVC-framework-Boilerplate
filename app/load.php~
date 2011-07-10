@@ -12,5 +12,7 @@ Class Load {
         if(is_array(data)) {
             extract($data);
         }
+        echo $fileName;
+        require_once('html/' . $fileName);
     }
 }

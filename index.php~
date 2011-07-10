@@ -7,7 +7,7 @@
 * 1 = display errors
 */
 error_reporting(E_ALL);
-ini_set('display_errors', 0);
+ini_set('display_errors', 1);
 
 // hack around with the include paths a bit so the framework 'just works'
 $cwd = dirname(__FILE__);
