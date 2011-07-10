@@ -12,6 +12,6 @@ Class Load {
         if(is_array(data)) {
             extract($data);
         }
-        include 'html/' . $fileName;
+        require_once('html/' . $fileName);
     }
 }
