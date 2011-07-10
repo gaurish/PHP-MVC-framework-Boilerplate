@@ -16,3 +16,11 @@ PHP MVC Boilarplate, provides you a basic skeleton for your custom app
 - *Helps you start writing PHP in Object oriented manner*
 
  
+## How to use
+
+- *Download source*
+- *Start by reading inline comments in source code*
+
+## For any Questions/Feedback
+
+- *Open Issue*
